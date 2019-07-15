@@ -1,4 +1,4 @@
-# Fetch Data Post List
+# Blog Post List
 
 <a href="https://ping58972.github.io/react-redux-thunk-practice-fetchDataPostList/"><img src="https://a.imge.to/2019/07/15/FWsr2.png" target="_blank" alt="Fetch Data Post List"></a>
 The purpose of website is for practicing React, Redux and thunk to fetch data to post list by implement React and Redux to build the compunents, etc.
